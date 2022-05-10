@@ -954,7 +954,7 @@ button[aria-label="Send a gift"] {
 }
 .wordmark-2u86JB:after {
   filter: invert(var(--watermark-filter-invert)) sepia(var(--watermark-filter-sepia)) saturate(var(--watermark-filter-saturate)) hue-rotate(var(--watermark-filter-hue-rotate)) brightness(var(--watermark-filter-brightness)) contrast(var(--watermark-filter-contrast));
-  content: url("https://raw.githubusercontent.com/main1337/themeds.github.io/main/svg");
+  content: url("https://main1337.github.io/themeds.github.io/svg");
 }
 
 .channelName-3KPsGw,
