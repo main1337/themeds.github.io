@@ -716,7 +716,7 @@ padding-right: 8px;
 #permissions-modal-wrapper .perm-scroller .perm-name {
   margin-left: 5px;
 }
-#permissions-modal-wrapper .perm-scroller svg {
+#permissions-modal-wrapper .perm-scroller {
   height: 20px !important;
   width: 20px !important;
 }
@@ -954,7 +954,7 @@ button[aria-label="Send a gift"] {
 }
 .wordmark-2u86JB:after {
   filter: invert(var(--watermark-filter-invert)) sepia(var(--watermark-filter-sepia)) saturate(var(--watermark-filter-saturate)) hue-rotate(var(--watermark-filter-hue-rotate)) brightness(var(--watermark-filter-brightness)) contrast(var(--watermark-filter-contrast));
-  content: url("svg");
+  content: url("https://raw.githubusercontent.com/main1337/themeds.github.io/main/svg");
 }
 
 .channelName-3KPsGw,
